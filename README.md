@@ -1,2 +1,2 @@
 # expresiones Regulares:
-En este repositorio encontrarán notebooks sobre expresiones regulares con Python.
+En este repositorio encontrarán notebooks sobre procesamiento de lenguaje natural (PLN) con Python.
